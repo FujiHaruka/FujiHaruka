@@ -14,7 +14,7 @@
 
 **notion-into-sqlite**: A CLI tool to download your Notion's database and save it locally into SQLite.
 
-- [GitHub][https://github.com/FujiHaruka/notion-into-sqlite]
+- [GitHub](https://github.com/FujiHaruka/notion-into-sqlite)
 
 **REPL for lambda calculus**: A REPL tool for lambda calculus, designed to make your learning experience interactive and intuitive.
 
