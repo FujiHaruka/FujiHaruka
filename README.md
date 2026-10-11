@@ -27,6 +27,10 @@
 - [GitHub](https://github.com/FujiHaruka/lean2js)
 - [Website](https://fujiharuka.github.io/lean2js/)
 
+**Base64 encoding and decoding in Lean 4**: A PoC implementation of proof-driven base64 encoder/decoder written in Lean 4.
+
+- [GitHub](https://github.com/FujiHaruka/base64-lean)
+
 ### Personal Projects (Tools)
 
 **notion-into-sqlite**: A CLI tool to download your Notion's database and save it locally into SQLite.
@@ -36,10 +40,6 @@
 **REPL for lambda calculus**: A REPL tool for lambda calculus, designed to make your learning experience interactive and intuitive.
 
 - [GitHub](https://github.com/FujiHaruka/lambda-calculus)
-
-**Base64 encoding and decoding in Lean 4**: A PoC implementation of proof-driven base64 encoder/decoder writtin in Lean4.
-
-- [GitHub](https://github.com/FujiHaruka/base64-lean)
 
 **node-adaptive-threshold**: An image processing library of adaptive thresholding written in JavaScript.
 
