@@ -10,6 +10,23 @@
 - [Google's Engineering Practices documentation 日本語訳](https://fujiharuka.github.io/google-eng-practices-ja/)
 - [Connascence](https://fujiharuka.github.io/connascence/)
 
+### Personal Projects (Lean 4)
+
+**information-theory**: Shannon Information Theory formalized in Lean 4.
+
+- [GitHub](https://github.com/FujiHaruka/information-theory)
+- [Docs](https://fujiharuka.github.io/information-theory/)
+
+**litedoc4**: Fast HTML documentation for Lean 4 packages — built for the ones standing on Mathlib.
+
+- [GitHub](https://github.com/FujiHaruka/litedoc4)
+- [Live example](https://fujiharuka.github.io/information-theory/)
+
+**lean2js**: Prove your business logic in Lean 4 and ship it as an ordinary npm package: a verified compiler that writes ESM, a .d.ts and a proof manifest.
+
+- [GitHub](https://github.com/FujiHaruka/lean2js)
+- [Website](https://fujiharuka.github.io/lean2js/)
+
 ### Personal Projects (Tools)
 
 **notion-into-sqlite**: A CLI tool to download your Notion's database and save it locally into SQLite.
